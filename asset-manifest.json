@@ -24,8 +24,8 @@
     "ui-design.png": "/ui-design.c4acd455fc2040eddcc8.png",
     "instagram.png": "/instagram.0bcd1dcb7d853c327af7.png",
     "index.html": "/index.html",
-    "main.c4ee8b04.css.map": "/main.c4ee8b04.css.map",
-    "main.81dbcb14.js.map": "/main.81dbcb14.js.map"
+    "main.c4ee8b04.css.map": "./main.c4ee8b04.css.map",
+    "main.81dbcb14.js.map": "./main.81dbcb14.js.map"
   },
   "entrypoints": [
     "/main.c4ee8b04.css",
